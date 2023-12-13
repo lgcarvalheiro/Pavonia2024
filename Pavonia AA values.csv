@@ -1,0 +1,528 @@
+Composed sample code,Sample ID,PlotID,Treatment,Nutrtient Addition,Composed sample weight(mg),number of samples combined,AA,absolute content,relative content
+P08_1C,P08,1C,C,no,0.85,4,Aspartic acid,29.447,14.53
+P10_1C,P10,1C,C,no,1.24,3,Aspartic acid,7.46,14.11
+P03_11C,P03,11C,C,no,1.521,4,Aspartic acid,22.105,13.11
+P43_13-14C,P43,13_14C,C,no,0.26,1,Aspartic acid,5.307,10.48
+P36_13-14C,P36,13_14C,C,no,2.17,9,Aspartic acid,14.046,13.39
+P31_16C,P31,16C,C,no,0.72,1,Aspartic acid,5.358,11.58
+P30_16C,P30,16C,C,no,1.05,2,Aspartic acid,9.33,11.53
+P33_2C,P33,2C,C,no,0.86,1,Aspartic acid,8.911,11.93
+P34_2C,P34,2C,C,no,1.16,2,Aspartic acid,3.956,11.34
+P20_6-7C,P20,6_7C,C,no,0.18,3,Aspartic acid,11.567,13.56
+P25_6-7C,P25,6_7C,C,no,0.3,1,Aspartic acid,27.175,13.76
+P26_6-7C,P26,6_7C,C,no,0.31,2,Aspartic acid,7.182,12.18
+P19_6-7C,P19,6_7C,C,no,0.57,1,Aspartic acid,8.669,13.27
+P28_6-7C,P28,6_7C,C,no,1.32,4,Aspartic acid,3.558,12.88
+P17_8-10C,P17,8_10C,C,no,0.48,1,Aspartic acid,2.351,2.22
+P16_8-10C,P16,8_10C,C,no,0.82,2,Aspartic acid,2.479,12.2
+P12_8-10C,P12,8_10C,C,no,1.77,1,Aspartic acid,4.304,12.11
+P13_8-10C,P13,8_10C,C,no,3.52,3,Aspartic acid,5.771,12.6
+P58_10N,P58,10N,N,yes,1.06,4,Aspartic acid,31.152,12.36
+P60_10N,P60,10N,N,yes,1.15,2,Aspartic acid,17.631,12.85
+P47_14N,P47,14N,N,yes,0.75,1,Aspartic acid,0,0
+P50_2N,P50,2N,N,yes,2.5,4,Aspartic acid,10.353,13
+P67_7N,P67,7N,N,yes,0.855,2,Aspartic acid,21.714,12.86
+P66_7N,P66,7N,N,yes,1.1,2,Aspartic acid,20.438,12.21
+P70_7N,P70,7N,N,yes,1.39,4,Aspartic acid,13.982,13.66
+P64_7N,P64,7N,N,yes,1.48,2,Aspartic acid,11.979,12.41
+P79_8NP,P79,8NP,NP,yes,1.44,3,Aspartic acid,27.105,13.01
+P82_16N,P82,16N,N,yes,0.4,1,Aspartic acid,32.896,13.82
+P83_16N,P83,16N,N,yes,0.41,1,Aspartic acid,19.647,13.54
+P75_8NP,P75,8NP,NP,yes,1.75,3,Aspartic acid,17.738,12.2
+P73_8NP,P73,8NP,NP,yes,1.83,3,Aspartic acid,21.432,13.32
+P08_1C,P08,1C,C,no,0.85,4,Threonine,9.87,4.87
+P10_1C,P10,1C,C,no,1.24,3,Threonine,2.463,4.66
+P03_11C,P03,11C,C,no,1.521,4,Threonine,8.035,4.77
+P43_13-14C,P43,13_14C,C,no,0.26,1,Threonine,2.359,4.66
+P36_13-14C,P36,13_14C,C,no,2.17,9,Threonine,5.089,4.85
+P31_16C,P31,16C,C,no,0.72,1,Threonine,2.012,4.35
+P30_16C,P30,16C,C,no,1.05,2,Threonine,3.8,4.7
+P33_2C,P33,2C,C,no,0.86,1,Threonine,3.551,4.76
+P34_2C,P34,2C,C,no,1.16,2,Threonine,1.412,4.05
+P20_6-7C,P20,6_7C,C,no,0.18,3,Threonine,3.077,3.61
+P25_6-7C,P25,6_7C,C,no,0.3,1,Threonine,9.033,4.57
+P26_6-7C,P26,6_7C,C,no,0.31,2,Threonine,2.322,3.94
+P19_6-7C,P19,6_7C,C,no,0.57,1,Threonine,2.919,4.47
+P28_6-7C,P28,6_7C,C,no,1.32,4,Threonine,1.117,4.04
+P17_8-10C,P17,8_10C,C,no,0.48,1,Threonine,6.092,5.76
+P16_8-10C,P16,8_10C,C,no,0.82,2,Threonine,0.933,4.59
+P12_8-10C,P12,8_10C,C,no,1.77,1,Threonine,1.609,4.53
+P13_8-10C,P13,8_10C,C,no,3.52,3,Threonine,2.267,4.95
+P58_10N,P58,10N,N,yes,1.06,4,Threonine,12.255,4.86
+P60_10N,P60,10N,N,yes,1.15,2,Threonine,6.831,4.98
+P47_14N,P47,14N,N,yes,0.75,1,Threonine,0,0
+P50_2N,P50,2N,N,yes,2.5,4,Threonine,3.906,4.9
+P67_7N,P67,7N,N,yes,0.855,2,Threonine,8.293,4.91
+P66_7N,P66,7N,N,yes,1.1,2,Threonine,8.113,4.85
+P70_7N,P70,7N,N,yes,1.39,4,Threonine,4.879,4.77
+P64_7N,P64,7N,N,yes,1.48,2,Threonine,4.806,4.98
+P79_8NP,P79,8NP,NP,yes,1.44,3,Threonine,9.971,4.79
+P82_16N,P82,16N,N,yes,0.4,1,Threonine,11.193,4.7
+P83_16N,P83,16N,N,yes,0.41,1,Threonine,7.004,4.83
+P75_8NP,P75,8NP,NP,yes,1.75,3,Threonine,6.945,4.78
+P73_8NP,P73,8NP,NP,yes,1.83,3,Threonine,8.021,4.98
+P08_1C,P08,1C,C,no,0.85,4,Serine,12.557,6.2
+P10_1C,P10,1C,C,no,1.24,3,Serine,3.115,5.89
+P03_11C,P03,11C,C,no,1.521,4,Serine,10.665,6.33
+P43_13-14C,P43,13_14C,C,no,0.26,1,Serine,2.955,5.83
+P36_13-14C,P36,13_14C,C,no,2.17,9,Serine,6.521,6.22
+P31_16C,P31,16C,C,no,0.72,1,Serine,2.866,6.2
+P30_16C,P30,16C,C,no,1.05,2,Serine,4.982,6.16
+P33_2C,P33,2C,C,no,0.86,1,Serine,4.502,6.03
+P34_2C,P34,2C,C,no,1.16,2,Serine,1.847,5.3
+P20_6-7C,P20,6_7C,C,no,0.18,3,Serine,5.558,6.52
+P25_6-7C,P25,6_7C,C,no,0.3,1,Serine,11.621,5.88
+P26_6-7C,P26,6_7C,C,no,0.31,2,Serine,3.287,5.57
+P19_6-7C,P19,6_7C,C,no,0.57,1,Serine,3.999,6.12
+P28_6-7C,P28,6_7C,C,no,1.32,4,Serine,1.504,5.44
+P17_8-10C,P17,8_10C,C,no,0.48,1,Serine,6.903,6.52
+P16_8-10C,P16,8_10C,C,no,0.82,2,Serine,1.275,6.28
+P12_8-10C,P12,8_10C,C,no,1.77,1,Serine,2.127,5.99
+P13_8-10C,P13,8_10C,C,no,3.52,3,Serine,2.873,6.27
+P58_10N,P58,10N,N,yes,1.06,4,Serine,15.992,6.34
+P60_10N,P60,10N,N,yes,1.15,2,Serine,8.772,6.39
+P47_14N,P47,14N,N,yes,0.75,1,Serine,0,0
+P50_2N,P50,2N,N,yes,2.5,4,Serine,5.055,6.35
+P67_7N,P67,7N,N,yes,0.855,2,Serine,10.759,6.37
+P66_7N,P66,7N,N,yes,1.1,2,Serine,10.698,6.39
+P70_7N,P70,7N,N,yes,1.39,4,Serine,6.528,6.38
+P64_7N,P64,7N,N,yes,1.48,2,Serine,6.051,6.27
+P79_8NP,P79,8NP,NP,yes,1.44,3,Serine,13.271,6.37
+P82_16N,P82,16N,N,yes,0.4,1,Serine,14.713,6.18
+P83_16N,P83,16N,N,yes,0.41,1,Serine,9.476,6.53
+P75_8NP,P75,8NP,NP,yes,1.75,3,Serine,8.933,6.15
+P73_8NP,P73,8NP,NP,yes,1.83,3,Serine,10.417,6.47
+P08_1C,P08,1C,C,no,0.85,4,Glutamic acid,34.955,17.25
+P10_1C,P10,1C,C,no,1.24,3,Glutamic acid,8.57,16.21
+P03_11C,P03,11C,C,no,1.521,4,Glutamic acid,27.123,16.09
+P43_13-14C,P43,13_14C,C,no,0.26,1,Glutamic acid,7.04,13.9
+P36_13-14C,P36,13_14C,C,no,2.17,9,Glutamic acid,17.433,16.62
+P31_16C,P31,16C,C,no,0.72,1,Glutamic acid,6.653,14.38
+P30_16C,P30,16C,C,no,1.05,2,Glutamic acid,10.991,13.58
+P33_2C,P33,2C,C,no,0.86,1,Glutamic acid,10.172,13.62
+P34_2C,P34,2C,C,no,1.16,2,Glutamic acid,4.661,13.36
+P20_6-7C,P20,6_7C,C,no,0.18,3,Glutamic acid,14.53,17.03
+P25_6-7C,P25,6_7C,C,no,0.3,1,Glutamic acid,38.122,19.3
+P26_6-7C,P26,6_7C,C,no,0.31,2,Glutamic acid,10.63,18.02
+P19_6-7C,P19,6_7C,C,no,0.57,1,Glutamic acid,10.155,15.54
+P28_6-7C,P28,6_7C,C,no,1.32,4,Glutamic acid,4.628,16.75
+P17_8-10C,P17,8_10C,C,no,0.48,1,Glutamic acid,16.192,15.3
+P16_8-10C,P16,8_10C,C,no,0.82,2,Glutamic acid,3.722,18.32
+P12_8-10C,P12,8_10C,C,no,1.77,1,Glutamic acid,4.939,13.9
+P13_8-10C,P13,8_10C,C,no,3.52,3,Glutamic acid,7.178,15.67
+P58_10N,P58,10N,N,yes,1.06,4,Glutamic acid,38.41,15.24
+P60_10N,P60,10N,N,yes,1.15,2,Glutamic acid,19.778,14.42
+P47_14N,P47,14N,N,yes,0.75,1,Glutamic acid,0,0
+P50_2N,P50,2N,N,yes,2.5,4,Glutamic acid,12.31,15.45
+P67_7N,P67,7N,N,yes,0.855,2,Glutamic acid,25.383,15.03
+P66_7N,P66,7N,N,yes,1.1,2,Glutamic acid,23.453,14.01
+P70_7N,P70,7N,N,yes,1.39,4,Glutamic acid,17.525,17.12
+P64_7N,P64,7N,N,yes,1.48,2,Glutamic acid,13.953,14.45
+P79_8NP,P79,8NP,NP,yes,1.44,3,Glutamic acid,34.526,16.57
+P82_16N,P82,16N,N,yes,0.4,1,Glutamic acid,39.286,16.5
+P83_16N,P83,16N,N,yes,0.41,1,Glutamic acid,25.618,17.65
+P75_8NP,P75,8NP,NP,yes,1.75,3,Glutamic acid,20.331,13.99
+P73_8NP,P73,8NP,NP,yes,1.83,3,Glutamic acid,25.701,15.97
+P08_1C,P08,1C,C,no,0.85,4,Proline,9.404,4.64
+P10_1C,P10,1C,C,no,1.24,3,Proline,3.07,5.81
+P03_11C,P03,11C,C,no,1.521,4,Proline,7.521,4.46
+P43_13-14C,P43,13_14C,C,no,0.26,1,Proline,0,0
+P36_13-14C,P36,13_14C,C,no,2.17,9,Proline,5.032,4.8
+P31_16C,P31,16C,C,no,0.72,1,Proline,2.209,4.77
+P30_16C,P30,16C,C,no,1.05,2,Proline,4.584,5.66
+P33_2C,P33,2C,C,no,0.86,1,Proline,4.053,5.43
+P34_2C,P34,2C,C,no,1.16,2,Proline,2.406,6.9
+P20_6-7C,P20,6_7C,C,no,0.18,3,Proline,0,0
+P25_6-7C,P25,6_7C,C,no,0.3,1,Proline,11.388,5.77
+P26_6-7C,P26,6_7C,C,no,0.31,2,Proline,4.277,7.25
+P19_6-7C,P19,6_7C,C,no,0.57,1,Proline,2.819,4.32
+P28_6-7C,P28,6_7C,C,no,1.32,4,Proline,1.503,5.44
+P17_8-10C,P17,8_10C,C,no,0.48,1,Proline,7.724,7.3
+P16_8-10C,P16,8_10C,C,no,0.82,2,Proline,0,0
+P12_8-10C,P12,8_10C,C,no,1.77,1,Proline,1.716,4.83
+P13_8-10C,P13,8_10C,C,no,3.52,3,Proline,2.267,4.95
+P58_10N,P58,10N,N,yes,1.06,4,Proline,12.136,4.82
+P60_10N,P60,10N,N,yes,1.15,2,Proline,6.815,4.97
+P47_14N,P47,14N,N,yes,0.75,1,Proline,0,0
+P50_2N,P50,2N,N,yes,2.5,4,Proline,3.468,4.35
+P67_7N,P67,7N,N,yes,0.855,2,Proline,8.036,4.76
+P66_7N,P66,7N,N,yes,1.1,2,Proline,8.843,5.28
+P70_7N,P70,7N,N,yes,1.39,4,Proline,5.393,5.27
+P64_7N,P64,7N,N,yes,1.48,2,Proline,5.002,5.18
+P79_8NP,P79,8NP,NP,yes,1.44,3,Proline,9.157,4.39
+P82_16N,P82,16N,N,yes,0.4,1,Proline,12.949,5.44
+P83_16N,P83,16N,N,yes,0.41,1,Proline,8.555,5.89
+P75_8NP,P75,8NP,NP,yes,1.75,3,Proline,7.152,4.92
+P73_8NP,P73,8NP,NP,yes,1.83,3,Proline,1.81,1.12
+P08_1C,P08,1C,C,no,0.85,4,Glycine,9.196,4.54
+P10_1C,P10,1C,C,no,1.24,3,Glycine,2.455,4.64
+P03_11C,P03,11C,C,no,1.521,4,Glycine,7.919,4.7
+P43_13-14C,P43,13_14C,C,no,0.26,1,Glycine,2.644,5.22
+P36_13-14C,P36,13_14C,C,no,2.17,9,Glycine,4.927,4.7
+P31_16C,P31,16C,C,no,0.72,1,Glycine,1.934,4.18
+P30_16C,P30,16C,C,no,1.05,2,Glycine,3.904,4.82
+P33_2C,P33,2C,C,no,0.86,1,Glycine,3.48,4.66
+P34_2C,P34,2C,C,no,1.16,2,Glycine,1.61,4.62
+P20_6-7C,P20,6_7C,C,no,0.18,3,Glycine,4.609,5.4
+P25_6-7C,P25,6_7C,C,no,0.3,1,Glycine,9.274,4.7
+P26_6-7C,P26,6_7C,C,no,0.31,2,Glycine,2.84,4.81
+P19_6-7C,P19,6_7C,C,no,0.57,1,Glycine,3.087,4.72
+P28_6-7C,P28,6_7C,C,no,1.32,4,Glycine,1.12,4.06
+P17_8-10C,P17,8_10C,C,no,0.48,1,Glycine,5.421,5.12
+P16_8-10C,P16,8_10C,C,no,0.82,2,Glycine,1.078,5.31
+P12_8-10C,P12,8_10C,C,no,1.77,1,Glycine,1.771,4.98
+P13_8-10C,P13,8_10C,C,no,3.52,3,Glycine,2.249,4.91
+P58_10N,P58,10N,N,yes,1.06,4,Glycine,12.199,4.84
+P60_10N,P60,10N,N,yes,1.15,2,Glycine,7.102,5.18
+P47_14N,P47,14N,N,yes,0.75,1,Glycine,0,0
+P50_2N,P50,2N,N,yes,2.5,4,Glycine,3.797,4.77
+P67_7N,P67,7N,N,yes,0.855,2,Glycine,8.37,4.96
+P66_7N,P66,7N,N,yes,1.1,2,Glycine,7.898,4.72
+P70_7N,P70,7N,N,yes,1.39,4,Glycine,4.476,4.37
+P64_7N,P64,7N,N,yes,1.48,2,Glycine,4.538,4.7
+P79_8NP,P79,8NP,NP,yes,1.44,3,Glycine,9.882,4.74
+P82_16N,P82,16N,N,yes,0.4,1,Glycine,10.619,4.46
+P83_16N,P83,16N,N,yes,0.41,1,Glycine,7.715,5.32
+P75_8NP,P75,8NP,NP,yes,1.75,3,Glycine,6.791,4.67
+P73_8NP,P73,8NP,NP,yes,1.83,3,Glycine,7.708,4.79
+P08_1C,P08,1C,C,no,0.85,4,Alanine,10.905,5.38
+P10_1C,P10,1C,C,no,1.24,3,Alanine,2.809,5.31
+P03_11C,P03,11C,C,no,1.521,4,Alanine,9.611,5.7
+P43_13-14C,P43,13_14C,C,no,0.26,1,Alanine,3.574,7.05
+P36_13-14C,P36,13_14C,C,no,2.17,9,Alanine,5.778,5.51
+P31_16C,P31,16C,C,no,0.72,1,Alanine,2.58,5.58
+P30_16C,P30,16C,C,no,1.05,2,Alanine,4.667,5.77
+P33_2C,P33,2C,C,no,0.86,1,Alanine,4.431,5.93
+P34_2C,P34,2C,C,no,1.16,2,Alanine,2.052,5.88
+P20_6-7C,P20,6_7C,C,no,0.18,3,Alanine,6.082,7.13
+P25_6-7C,P25,6_7C,C,no,0.3,1,Alanine,9.884,5
+P26_6-7C,P26,6_7C,C,no,0.31,2,Alanine,3.388,5.74
+P19_6-7C,P19,6_7C,C,no,0.57,1,Alanine,4.179,6.4
+P28_6-7C,P28,6_7C,C,no,1.32,4,Alanine,1.289,4.67
+P17_8-10C,P17,8_10C,C,no,0.48,1,Alanine,6.508,6.15
+P16_8-10C,P16,8_10C,C,no,0.82,2,Alanine,1.378,6.78
+P12_8-10C,P12,8_10C,C,no,1.77,1,Alanine,2.157,6.07
+P13_8-10C,P13,8_10C,C,no,3.52,3,Alanine,2.653,5.79
+P58_10N,P58,10N,N,yes,1.06,4,Alanine,14.483,5.75
+P60_10N,P60,10N,N,yes,1.15,2,Alanine,8.605,6.27
+P47_14N,P47,14N,N,yes,0.75,1,Alanine,0,0
+P50_2N,P50,2N,N,yes,2.5,4,Alanine,4.672,5.86
+P67_7N,P67,7N,N,yes,0.855,2,Alanine,9.562,5.66
+P66_7N,P66,7N,N,yes,1.1,2,Alanine,9.7,5.79
+P70_7N,P70,7N,N,yes,1.39,4,Alanine,6.369,6.22
+P64_7N,P64,7N,N,yes,1.48,2,Alanine,5.872,6.08
+P79_8NP,P79,8NP,NP,yes,1.44,3,Alanine,11.368,5.46
+P82_16N,P82,16N,N,yes,0.4,1,Alanine,12.821,5.39
+P83_16N,P83,16N,N,yes,0.41,1,Alanine,7.566,5.21
+P75_8NP,P75,8NP,NP,yes,1.75,3,Alanine,8.463,5.82
+P73_8NP,P73,8NP,NP,yes,1.83,3,Alanine,9.277,5.76
+P08_1C,P08,1C,C,no,0.85,4,Cysteine,2.434,1.2
+P10_1C,P10,1C,C,no,1.24,3,Cysteine,0.992,1.88
+P03_11C,P03,11C,C,no,1.521,4,Cysteine,1.662,0.99
+P43_13-14C,P43,13_14C,C,no,0.26,1,Cysteine,0,0
+P36_13-14C,P36,13_14C,C,no,2.17,9,Cysteine,1.153,1.1
+P31_16C,P31,16C,C,no,0.72,1,Cysteine,1.726,3.73
+P30_16C,P30,16C,C,no,1.05,2,Cysteine,1.369,1.69
+P33_2C,P33,2C,C,no,0.86,1,Cysteine,1.241,1.66
+P34_2C,P34,2C,C,no,1.16,2,Cysteine,1.101,3.16
+P20_6-7C,P20,6_7C,C,no,0.18,3,Cysteine,5.426,6.36
+P25_6-7C,P25,6_7C,C,no,0.3,1,Cysteine,4.706,2.38
+P26_6-7C,P26,6_7C,C,no,0.31,2,Cysteine,3.165,5.37
+P19_6-7C,P19,6_7C,C,no,0.57,1,Cysteine,2.024,3.1
+P28_6-7C,P28,6_7C,C,no,1.32,4,Cysteine,0.902,3.26
+P17_8-10C,P17,8_10C,C,no,0.48,1,Cysteine,2.747,2.6
+P16_8-10C,P16,8_10C,C,no,0.82,2,Cysteine,1.126,5.54
+P12_8-10C,P12,8_10C,C,no,1.77,1,Cysteine,0.91,2.56
+P13_8-10C,P13,8_10C,C,no,3.52,3,Cysteine,0.532,1.16
+P58_10N,P58,10N,N,yes,1.06,4,Cysteine,2.296,0.91
+P60_10N,P60,10N,N,yes,1.15,2,Cysteine,1.538,1.12
+P47_14N,P47,14N,N,yes,0.75,1,Cysteine,1.57,73.11
+P50_2N,P50,2N,N,yes,2.5,4,Cysteine,0.91,1.14
+P67_7N,P67,7N,N,yes,0.855,2,Cysteine,2.171,1.29
+P66_7N,P66,7N,N,yes,1.1,2,Cysteine,1.912,1.14
+P70_7N,P70,7N,N,yes,1.39,4,Cysteine,1.154,1.13
+P64_7N,P64,7N,N,yes,1.48,2,Cysteine,1.282,1.33
+P79_8NP,P79,8NP,NP,yes,1.44,3,Cysteine,2.225,1.07
+P82_16N,P82,16N,N,yes,0.4,1,Cysteine,3.321,1.39
+P83_16N,P83,16N,N,yes,0.41,1,Cysteine,3.12,2.15
+P75_8NP,P75,8NP,NP,yes,1.75,3,Cysteine,1.52,1.05
+P73_8NP,P73,8NP,NP,yes,1.83,3,Cysteine,1.775,1.1
+P08_1C,P08,1C,C,no,0.85,4,Valine,12.108,5.97
+P10_1C,P10,1C,C,no,1.24,3,Valine,3.524,6.67
+P03_11C,P03,11C,C,no,1.521,4,Valine,10.18,6.04
+P43_13-14C,P43,13_14C,C,no,0.26,1,Valine,1.619,3.2
+P36_13-14C,P36,13_14C,C,no,2.17,9,Valine,6.258,5.97
+P31_16C,P31,16C,C,no,0.72,1,Valine,3.597,7.78
+P30_16C,P30,16C,C,no,1.05,2,Valine,5.394,6.67
+P33_2C,P33,2C,C,no,0.86,1,Valine,5.332,7.14
+P34_2C,P34,2C,C,no,1.16,2,Valine,2.689,7.71
+P20_6-7C,P20,6_7C,C,no,0.18,3,Valine,6.394,7.5
+P25_6-7C,P25,6_7C,C,no,0.3,1,Valine,12.492,6.32
+P26_6-7C,P26,6_7C,C,no,0.31,2,Valine,3.578,6.07
+P19_6-7C,P19,6_7C,C,no,0.57,1,Valine,4.416,6.76
+P28_6-7C,P28,6_7C,C,no,1.32,4,Valine,1.947,7.05
+P17_8-10C,P17,8_10C,C,no,0.48,1,Valine,7.856,7.42
+P16_8-10C,P16,8_10C,C,no,0.82,2,Valine,1.311,6.45
+P12_8-10C,P12,8_10C,C,no,1.77,1,Valine,2.461,6.93
+P13_8-10C,P13,8_10C,C,no,3.52,3,Valine,2.782,6.07
+P58_10N,P58,10N,N,yes,1.06,4,Valine,15.432,6.12
+P60_10N,P60,10N,N,yes,1.15,2,Valine,8.628,6.29
+P47_14N,P47,14N,N,yes,0.75,1,Valine,0.577,26.89
+P50_2N,P50,2N,N,yes,2.5,4,Valine,4.954,6.22
+P67_7N,P67,7N,N,yes,0.855,2,Valine,10.814,6.4
+P66_7N,P66,7N,N,yes,1.1,2,Valine,10.635,6.35
+P70_7N,P70,7N,N,yes,1.39,4,Valine,6.252,6.11
+P64_7N,P64,7N,N,yes,1.48,2,Valine,6.294,6.52
+P79_8NP,P79,8NP,NP,yes,1.44,3,Valine,12.275,5.89
+P82_16N,P82,16N,N,yes,0.4,1,Valine,15.125,6.35
+P83_16N,P83,16N,N,yes,0.41,1,Valine,8.194,5.65
+P75_8NP,P75,8NP,NP,yes,1.75,3,Valine,9.173,6.31
+P73_8NP,P73,8NP,NP,yes,1.83,3,Valine,10.277,6.39
+P08_1C,P08,1C,C,no,0.85,4,Methionine,1.808,0.89
+P10_1C,P10,1C,C,no,1.24,3,Methionine,1.061,2.01
+P03_11C,P03,11C,C,no,1.521,4,Methionine,2.628,1.56
+P43_13-14C,P43,13_14C,C,no,0.26,1,Methionine,5.75,11.35
+P36_13-14C,P36,13_14C,C,no,2.17,9,Methionine,1.003,0.96
+P31_16C,P31,16C,C,no,0.72,1,Methionine,1.399,3.02
+P30_16C,P30,16C,C,no,1.05,2,Methionine,1.338,1.65
+P33_2C,P33,2C,C,no,0.86,1,Methionine,0.773,1.04
+P34_2C,P34,2C,C,no,1.16,2,Methionine,0.966,2.77
+P20_6-7C,P20,6_7C,C,no,0.18,3,Methionine,0,0
+P25_6-7C,P25,6_7C,C,no,0.3,1,Methionine,3.154,1.6
+P26_6-7C,P26,6_7C,C,no,0.31,2,Methionine,0,0
+P19_6-7C,P19,6_7C,C,no,0.57,1,Methionine,0,0
+P28_6-7C,P28,6_7C,C,no,1.32,4,Methionine,0.748,2.71
+P17_8-10C,P17,8_10C,C,no,0.48,1,Methionine,2.001,1.89
+P16_8-10C,P16,8_10C,C,no,0.82,2,Methionine,0,0
+P12_8-10C,P12,8_10C,C,no,1.77,1,Methionine,0.825,2.32
+P13_8-10C,P13,8_10C,C,no,3.52,3,Methionine,0.386,0.84
+P58_10N,P58,10N,N,yes,1.06,4,Methionine,4.567,1.81
+P60_10N,P60,10N,N,yes,1.15,2,Methionine,1.848,1.35
+P47_14N,P47,14N,N,yes,0.75,1,Methionine,0,0
+P50_2N,P50,2N,N,yes,2.5,4,Methionine,1.175,1.47
+P67_7N,P67,7N,N,yes,0.855,2,Methionine,2.633,1.56
+P66_7N,P66,7N,N,yes,1.1,2,Methionine,2.117,1.26
+P70_7N,P70,7N,N,yes,1.39,4,Methionine,1.124,1.1
+P64_7N,P64,7N,N,yes,1.48,2,Methionine,0.941,0.98
+P79_8NP,P79,8NP,NP,yes,1.44,3,Methionine,2.907,1.4
+P82_16N,P82,16N,N,yes,0.4,1,Methionine,2.163,0.91
+P83_16N,P83,16N,N,yes,0.41,1,Methionine,2.141,1.48
+P75_8NP,P75,8NP,NP,yes,1.75,3,Methionine,1.931,1.33
+P73_8NP,P73,8NP,NP,yes,1.83,3,Methionine,2.779,1.73
+P08_1C,P08,1C,C,no,0.85,4,Isoleucine,8.459,4.17
+P10_1C,P10,1C,C,no,1.24,3,Isoleucine,2.266,4.29
+P03_11C,P03,11C,C,no,1.521,4,Isoleucine,8.74,5.18
+P43_13-14C,P43,13_14C,C,no,0.26,1,Isoleucine,2.275,4.49
+P36_13-14C,P36,13_14C,C,no,2.17,9,Isoleucine,4.568,4.36
+P31_16C,P31,16C,C,no,0.72,1,Isoleucine,1.911,4.13
+P30_16C,P30,16C,C,no,1.05,2,Isoleucine,3.617,4.47
+P33_2C,P33,2C,C,no,0.86,1,Isoleucine,3.406,4.56
+P34_2C,P34,2C,C,no,1.16,2,Isoleucine,1.537,4.41
+P20_6-7C,P20,6_7C,C,no,0.18,3,Isoleucine,3.822,4.48
+P25_6-7C,P25,6_7C,C,no,0.3,1,Isoleucine,7.16,3.63
+P26_6-7C,P26,6_7C,C,no,0.31,2,Isoleucine,1.94,3.29
+P19_6-7C,P19,6_7C,C,no,0.57,1,Isoleucine,2.679,4.1
+P28_6-7C,P28,6_7C,C,no,1.32,4,Isoleucine,1.074,3.89
+P17_8-10C,P17,8_10C,C,no,0.48,1,Isoleucine,5.315,5.02
+P16_8-10C,P16,8_10C,C,no,0.82,2,Isoleucine,0.927,4.56
+P12_8-10C,P12,8_10C,C,no,1.77,1,Isoleucine,1.525,4.29
+P13_8-10C,P13,8_10C,C,no,3.52,3,Isoleucine,2.056,4.49
+P58_10N,P58,10N,N,yes,1.06,4,Isoleucine,13.429,5.33
+P60_10N,P60,10N,N,yes,1.15,2,Isoleucine,6.262,4.56
+P47_14N,P47,14N,N,yes,0.75,1,Isoleucine,0,0
+P50_2N,P50,2N,N,yes,2.5,4,Isoleucine,3.551,4.46
+P67_7N,P67,7N,N,yes,0.855,2,Isoleucine,7.544,4.47
+P66_7N,P66,7N,N,yes,1.1,2,Isoleucine,7.799,4.66
+P70_7N,P70,7N,N,yes,1.39,4,Isoleucine,4.28,4.18
+P64_7N,P64,7N,N,yes,1.48,2,Isoleucine,4.387,4.54
+P79_8NP,P79,8NP,NP,yes,1.44,3,Isoleucine,10.659,5.12
+P82_16N,P82,16N,N,yes,0.4,1,Isoleucine,10.046,4.22
+P83_16N,P83,16N,N,yes,0.41,1,Isoleucine,5.385,3.71
+P75_8NP,P75,8NP,NP,yes,1.75,3,Isoleucine,8.184,5.63
+P73_8NP,P73,8NP,NP,yes,1.83,3,Isoleucine,8.737,5.43
+P08_1C,P08,1C,C,no,0.85,4,Leucine,13.188,6.51
+P10_1C,P10,1C,C,no,1.24,3,Leucine,3.447,6.52
+P03_11C,P03,11C,C,no,1.521,4,Leucine,11.999,7.12
+P43_13-14C,P43,13_14C,C,no,0.26,1,Leucine,4.197,8.28
+P36_13-14C,P36,13_14C,C,no,2.17,9,Leucine,7.274,6.94
+P31_16C,P31,16C,C,no,0.72,1,Leucine,2.949,6.38
+P30_16C,P30,16C,C,no,1.05,2,Leucine,5.769,7.13
+P33_2C,P33,2C,C,no,0.86,1,Leucine,5.428,7.27
+P34_2C,P34,2C,C,no,1.16,2,Leucine,2.356,6.75
+P20_6-7C,P20,6_7C,C,no,0.18,3,Leucine,5.533,6.49
+P25_6-7C,P25,6_7C,C,no,0.3,1,Leucine,12.133,6.14
+P26_6-7C,P26,6_7C,C,no,0.31,2,Leucine,3.44,5.83
+P19_6-7C,P19,6_7C,C,no,0.57,1,Leucine,4.19,6.41
+P28_6-7C,P28,6_7C,C,no,1.32,4,Leucine,1.734,6.28
+P17_8-10C,P17,8_10C,C,no,0.48,1,Leucine,7.942,7.5
+P16_8-10C,P16,8_10C,C,no,0.82,2,Leucine,1.408,6.93
+P12_8-10C,P12,8_10C,C,no,1.77,1,Leucine,2.471,6.95
+P13_8-10C,P13,8_10C,C,no,3.52,3,Leucine,3.304,7.21
+P58_10N,P58,10N,N,yes,1.06,4,Leucine,18.726,7.43
+P60_10N,P60,10N,N,yes,1.15,2,Leucine,9.757,7.11
+P47_14N,P47,14N,N,yes,0.75,1,Leucine,0,0
+P50_2N,P50,2N,N,yes,2.5,4,Leucine,5.675,7.12
+P67_7N,P67,7N,N,yes,0.855,2,Leucine,11.93,7.06
+P66_7N,P66,7N,N,yes,1.1,2,Leucine,12.323,7.36
+P70_7N,P70,7N,N,yes,1.39,4,Leucine,6.66,6.51
+P64_7N,P64,7N,N,yes,1.48,2,Leucine,6.898,7.14
+P79_8NP,P79,8NP,NP,yes,1.44,3,Leucine,14.791,7.1
+P82_16N,P82,16N,N,yes,0.4,1,Leucine,15.21,6.39
+P83_16N,P83,16N,N,yes,0.41,1,Leucine,8.796,6.06
+P75_8NP,P75,8NP,NP,yes,1.75,3,Leucine,10.938,7.53
+P73_8NP,P73,8NP,NP,yes,1.83,3,Leucine,12.295,7.64
+P08_1C,P08,1C,C,no,0.85,4,Tyrosine,8.024,3.96
+P10_1C,P10,1C,C,no,1.24,3,Tyrosine,1.891,3.58
+P03_11C,P03,11C,C,no,1.521,4,Tyrosine,6.727,3.99
+P43_13-14C,P43,13_14C,C,no,0.26,1,Tyrosine,1.858,3.67
+P36_13-14C,P36,13_14C,C,no,2.17,9,Tyrosine,4.319,4.12
+P31_16C,P31,16C,C,no,0.72,1,Tyrosine,1.877,4.06
+P30_16C,P30,16C,C,no,1.05,2,Tyrosine,3.517,4.35
+P33_2C,P33,2C,C,no,0.86,1,Tyrosine,3.227,4.32
+P34_2C,P34,2C,C,no,1.16,2,Tyrosine,1.413,4.05
+P20_6-7C,P20,6_7C,C,no,0.18,3,Tyrosine,2.956,3.47
+P25_6-7C,P25,6_7C,C,no,0.3,1,Tyrosine,5.536,2.8
+P26_6-7C,P26,6_7C,C,no,0.31,2,Tyrosine,3.036,5.15
+P19_6-7C,P19,6_7C,C,no,0.57,1,Tyrosine,2.97,4.54
+P28_6-7C,P28,6_7C,C,no,1.32,4,Tyrosine,1.24,4.49
+P17_8-10C,P17,8_10C,C,no,0.48,1,Tyrosine,5.319,5.03
+P16_8-10C,P16,8_10C,C,no,0.82,2,Tyrosine,0.62,3.05
+P12_8-10C,P12,8_10C,C,no,1.77,1,Tyrosine,1.428,4.02
+P13_8-10C,P13,8_10C,C,no,3.52,3,Tyrosine,1.919,4.19
+P58_10N,P58,10N,N,yes,1.06,4,Tyrosine,10.376,4.12
+P60_10N,P60,10N,N,yes,1.15,2,Tyrosine,5.254,3.83
+P47_14N,P47,14N,N,yes,0.75,1,Tyrosine,0,0
+P50_2N,P50,2N,N,yes,2.5,4,Tyrosine,3.227,4.05
+P67_7N,P67,7N,N,yes,0.855,2,Tyrosine,6.817,4.04
+P66_7N,P66,7N,N,yes,1.1,2,Tyrosine,7.423,4.43
+P70_7N,P70,7N,N,yes,1.39,4,Tyrosine,4.135,4.04
+P64_7N,P64,7N,N,yes,1.48,2,Tyrosine,4.097,4.24
+P79_8NP,P79,8NP,NP,yes,1.44,3,Tyrosine,8.678,4.16
+P82_16N,P82,16N,N,yes,0.4,1,Tyrosine,9.852,4.14
+P83_16N,P83,16N,N,yes,0.41,1,Tyrosine,4.967,3.42
+P75_8NP,P75,8NP,NP,yes,1.75,3,Tyrosine,6.364,4.38
+P73_8NP,P73,8NP,NP,yes,1.83,3,Tyrosine,6.891,4.28
+P08_1C,P08,1C,C,no,0.85,4,Phenylalanine,9.173,4.53
+P10_1C,P10,1C,C,no,1.24,3,Phenylalanine,2.574,4.87
+P03_11C,P03,11C,C,no,1.521,4,Phenylalanine,7.927,4.7
+P43_13-14C,P43,13_14C,C,no,0.26,1,Phenylalanine,3.808,7.52
+P36_13-14C,P36,13_14C,C,no,2.17,9,Phenylalanine,5.034,4.8
+P31_16C,P31,16C,C,no,0.72,1,Phenylalanine,2.533,5.48
+P30_16C,P30,16C,C,no,1.05,2,Phenylalanine,4.417,5.46
+P33_2C,P33,2C,C,no,0.86,1,Phenylalanine,4.211,5.64
+P34_2C,P34,2C,C,no,1.16,2,Phenylalanine,1.95,5.59
+P20_6-7C,P20,6_7C,C,no,0.18,3,Phenylalanine,5.912,6.93
+P25_6-7C,P25,6_7C,C,no,0.3,1,Phenylalanine,9.511,4.82
+P26_6-7C,P26,6_7C,C,no,0.31,2,Phenylalanine,2.905,4.92
+P19_6-7C,P19,6_7C,C,no,0.57,1,Phenylalanine,4.029,6.17
+P28_6-7C,P28,6_7C,C,no,1.32,4,Phenylalanine,1.597,5.78
+P17_8-10C,P17,8_10C,C,no,0.48,1,Phenylalanine,6.101,5.76
+P16_8-10C,P16,8_10C,C,no,0.82,2,Phenylalanine,1.329,6.54
+P12_8-10C,P12,8_10C,C,no,1.77,1,Phenylalanine,2.016,5.67
+P13_8-10C,P13,8_10C,C,no,3.52,3,Phenylalanine,2.364,5.16
+P58_10N,P58,10N,N,yes,1.06,4,Phenylalanine,12.381,4.91
+P60_10N,P60,10N,N,yes,1.15,2,Phenylalanine,6.876,5.01
+P47_14N,P47,14N,N,yes,0.75,1,Phenylalanine,0,0
+P50_2N,P50,2N,N,yes,2.5,4,Phenylalanine,4.012,5.04
+P67_7N,P67,7N,N,yes,0.855,2,Phenylalanine,8.313,4.92
+P66_7N,P66,7N,N,yes,1.1,2,Phenylalanine,8.682,5.19
+P70_7N,P70,7N,N,yes,1.39,4,Phenylalanine,4.935,4.82
+P64_7N,P64,7N,N,yes,1.48,2,Phenylalanine,4.964,5.14
+P79_8NP,P79,8NP,NP,yes,1.44,3,Phenylalanine,9.899,4.75
+P82_16N,P82,16N,N,yes,0.4,1,Phenylalanine,11.792,4.95
+P83_16N,P83,16N,N,yes,0.41,1,Phenylalanine,7.464,5.14
+P75_8NP,P75,8NP,NP,yes,1.75,3,Phenylalanine,7.709,5.3
+P73_8NP,P73,8NP,NP,yes,1.83,3,Phenylalanine,8.177,5.08
+P08_1C,P08,1C,C,no,0.85,4,Histidine,5.203,2.57
+P10_1C,P10,1C,C,no,1.24,3,Histidine,1.26,2.38
+P03_11C,P03,11C,C,no,1.521,4,Histidine,4.197,2.49
+P43_13-14C,P43,13_14C,C,no,0.26,1,Histidine,1.794,3.54
+P36_13-14C,P36,13_14C,C,no,2.17,9,Histidine,2.702,2.58
+P31_16C,P31,16C,C,no,0.72,1,Histidine,1.163,2.51
+P30_16C,P30,16C,C,no,1.05,2,Histidine,2.158,2.67
+P33_2C,P33,2C,C,no,0.86,1,Histidine,1.936,2.59
+P34_2C,P34,2C,C,no,1.16,2,Histidine,0.926,2.66
+P20_6-7C,P20,6_7C,C,no,0.18,3,Histidine,2.421,2.84
+P25_6-7C,P25,6_7C,C,no,0.3,1,Histidine,4.625,2.34
+P26_6-7C,P26,6_7C,C,no,0.31,2,Histidine,1.517,2.57
+P19_6-7C,P19,6_7C,C,no,0.57,1,Histidine,1.766,2.7
+P28_6-7C,P28,6_7C,C,no,1.32,4,Histidine,0.656,2.37
+P17_8-10C,P17,8_10C,C,no,0.48,1,Histidine,3.064,2.89
+P16_8-10C,P16,8_10C,C,no,0.82,2,Histidine,0.612,3.01
+P12_8-10C,P12,8_10C,C,no,1.77,1,Histidine,0.942,2.65
+P13_8-10C,P13,8_10C,C,no,3.52,3,Histidine,1.21,2.64
+P58_10N,P58,10N,N,yes,1.06,4,Histidine,6.352,2.52
+P60_10N,P60,10N,N,yes,1.15,2,Histidine,3.53,2.57
+P47_14N,P47,14N,N,yes,0.75,1,Histidine,0,0
+P50_2N,P50,2N,N,yes,2.5,4,Histidine,2.095,2.63
+P67_7N,P67,7N,N,yes,0.855,2,Histidine,4.413,2.61
+P66_7N,P66,7N,N,yes,1.1,2,Histidine,4.371,2.61
+P70_7N,P70,7N,N,yes,1.39,4,Histidine,2.517,2.46
+P64_7N,P64,7N,N,yes,1.48,2,Histidine,2.579,2.67
+P79_8NP,P79,8NP,NP,yes,1.44,3,Histidine,5.348,2.57
+P82_16N,P82,16N,N,yes,0.4,1,Histidine,6.157,2.59
+P83_16N,P83,16N,N,yes,0.41,1,Histidine,3.556,2.45
+P75_8NP,P75,8NP,NP,yes,1.75,3,Histidine,3.747,2.58
+P73_8NP,P73,8NP,NP,yes,1.83,3,Histidine,4.265,2.65
+P08_1C,P08,1C,C,no,0.85,4,Lysine,16.632,8.21
+P10_1C,P10,1C,C,no,1.24,3,Lysine,3.715,7.03
+P03_11C,P03,11C,C,no,1.521,4,Lysine,13.892,8.24
+P43_13-14C,P43,13_14C,C,no,0.26,1,Lysine,3.238,6.39
+P36_13-14C,P36,13_14C,C,no,2.17,9,Lysine,8.579,8.18
+P31_16C,P31,16C,C,no,0.72,1,Lysine,3.59,7.76
+P30_16C,P30,16C,C,no,1.05,2,Lysine,6.969,8.61
+P33_2C,P33,2C,C,no,0.86,1,Lysine,6.24,8.36
+P34_2C,P34,2C,C,no,1.16,2,Lysine,2.416,6.93
+P20_6-7C,P20,6_7C,C,no,0.18,3,Lysine,5.585,6.55
+P25_6-7C,P25,6_7C,C,no,0.3,1,Lysine,14.337,7.26
+P26_6-7C,P26,6_7C,C,no,0.31,2,Lysine,3.145,5.33
+P19_6-7C,P19,6_7C,C,no,0.57,1,Lysine,4.507,6.9
+P28_6-7C,P28,6_7C,C,no,1.32,4,Lysine,1.809,6.55
+P17_8-10C,P17,8_10C,C,no,0.48,1,Lysine,9.043,8.54
+P16_8-10C,P16,8_10C,C,no,0.82,2,Lysine,1.335,6.57
+P12_8-10C,P12,8_10C,C,no,1.77,1,Lysine,2.807,7.9
+P13_8-10C,P13,8_10C,C,no,3.52,3,Lysine,3.863,8.43
+P58_10N,P58,10N,N,yes,1.06,4,Lysine,20.059,7.96
+P60_10N,P60,10N,N,yes,1.15,2,Lysine,11.731,8.55
+P47_14N,P47,14N,N,yes,0.75,1,Lysine,0,0
+P50_2N,P50,2N,N,yes,2.5,4,Lysine,6.775,8.5
+P67_7N,P67,7N,N,yes,0.855,2,Lysine,13.806,8.18
+P66_7N,P66,7N,N,yes,1.1,2,Lysine,14.461,8.64
+P70_7N,P70,7N,N,yes,1.39,4,Lysine,7.638,7.46
+P64_7N,P64,7N,N,yes,1.48,2,Lysine,8.331,8.63
+P79_8NP,P79,8NP,NP,yes,1.44,3,Lysine,16.494,7.92
+P82_16N,P82,16N,N,yes,0.4,1,Lysine,19.008,7.98
+P83_16N,P83,16N,N,yes,0.41,1,Lysine,9.854,6.79
+P75_8NP,P75,8NP,NP,yes,1.75,3,Lysine,12.247,8.43
+P73_8NP,P73,8NP,NP,yes,1.83,3,Lysine,13.503,8.39
+P08_1C,P08,1C,C,no,0.85,4,Arginine,9.295,4.59
+P10_1C,P10,1C,C,no,1.24,3,Arginine,2.197,4.16
+P03_11C,P03,11C,C,no,1.521,4,Arginine,7.661,4.54
+P43_13-14C,P43,13_14C,C,no,0.26,1,Arginine,2.243,4.43
+P36_13-14C,P36,13_14C,C,no,2.17,9,Arginine,5.164,4.92
+P31_16C,P31,16C,C,no,0.72,1,Arginine,1.904,4.12
+P30_16C,P30,16C,C,no,1.05,2,Arginine,4.124,5.1
+P33_2C,P33,2C,C,no,0.86,1,Arginine,3.774,5.05
+P34_2C,P34,2C,C,no,1.16,2,Arginine,1.58,4.53
+P20_6-7C,P20,6_7C,C,no,0.18,3,Arginine,1.834,2.15
+P25_6-7C,P25,6_7C,C,no,0.3,1,Arginine,7.35,3.72
+P26_6-7C,P26,6_7C,C,no,0.31,2,Arginine,2.331,3.95
+P19_6-7C,P19,6_7C,C,no,0.57,1,Arginine,2.932,4.49
+P28_6-7C,P28,6_7C,C,no,1.32,4,Arginine,1.2,4.34
+P17_8-10C,P17,8_10C,C,no,0.48,1,Arginine,5.253,4.96
+P16_8-10C,P16,8_10C,C,no,0.82,2,Arginine,0.782,3.85
+P12_8-10C,P12,8_10C,C,no,1.77,1,Arginine,1.533,4.31
+P13_8-10C,P13,8_10C,C,no,3.52,3,Arginine,2.135,4.66
+P58_10N,P58,10N,N,yes,1.06,4,Arginine,11.807,4.68
+P60_10N,P60,10N,N,yes,1.15,2,Arginine,6.228,4.54
+P47_14N,P47,14N,N,yes,0.75,1,Arginine,0,0
+P50_2N,P50,2N,N,yes,2.5,4,Arginine,3.727,4.68
+P67_7N,P67,7N,N,yes,0.855,2,Arginine,8.313,4.92
+P66_7N,P66,7N,N,yes,1.1,2,Arginine,8.546,5.1
+P70_7N,P70,7N,N,yes,1.39,4,Arginine,4.52,4.42
+P64_7N,P64,7N,N,yes,1.48,2,Arginine,4.575,4.74
+P79_8NP,P79,8NP,NP,yes,1.44,3,Arginine,9.818,4.71
+P82_16N,P82,16N,N,yes,0.4,1,Arginine,10.92,4.59
+P83_16N,P83,16N,N,yes,0.41,1,Arginine,6.091,4.2
+P75_8NP,P75,8NP,NP,yes,1.75,3,Arginine,7.17,4.93
+P73_8NP,P73,8NP,NP,yes,1.83,3,Arginine,7.887,4.9
