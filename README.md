@@ -1,0 +1,2 @@
+Files used for data analyses in 
+Carvalheiro et al (in press). LONG-TERM EFFECTS OF NITROGEN ENRICHMENT ON POLLEN CHEMISTRY 1 OF A PLANT SPECIES FROM BRAZILIAN SAVANNAS, PAVONIA ROSA-CAMPESTRIS. Jouenal of Pollination Ecology
